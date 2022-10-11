@@ -1,2 +1,2 @@
 # EmailExtractorSlicer
-python sql
+using python and mysql
